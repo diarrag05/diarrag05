@@ -31,6 +31,11 @@ J’aime autant travailler en équipe qu’en autonomie : explorer un problème,
 
 ## Expériences professionnelles
 
+### Data Analyst - *Audiens"
+*Juin 2025 - aujourd’hui*
+- Analyse de la qualité des données métiers (complétude, cohérence, unicité) et identification des anomalies. 
+- Contribution à la gouvernance des données : documentation des règles de qualité et harmonisation des bases.
+
 ### Data Scientist – *AI Diagme | Clinique de l’IA, Cachan*  
 *Janv. 2025 – Avr. 2025*  
 - Développement d’une app Android connectée à l’API Samsung Health (5 000+ données santé)  
